@@ -1,2 +1,3 @@
-# :sparkles:Homepage:sparkles:
+﻿# :sparkles:Homepage:sparkles:
 My very own personal website. Basically this is just a résumé.
+Hocus-pocus!
