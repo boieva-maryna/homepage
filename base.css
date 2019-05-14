@@ -109,7 +109,7 @@ li {
   list-style: none outside none;
 }
 ul > li:before {
-  content: "?";
+  content: "\26AB";
   font-family: "Arial";
   float: left;
   width: 1.5em;
