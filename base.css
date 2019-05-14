@@ -594,7 +594,7 @@ article {
   color: dimgrey;
 }
 .contacts li a.mail:hover {
-  color: dimgrey;
+  color: #696969;
 }
 .contacts li a.skype:hover {
   color: #00aff0;
