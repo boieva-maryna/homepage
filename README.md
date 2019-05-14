@@ -1,2 +1,2 @@
 # :sparkles:Homepage:sparkles:
-My very own personal website. Basically this is just a résumé.
+My first attempt for bsa19. Basically this is just a résumé.
