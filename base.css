@@ -1,4 +1,4 @@
-﻿::-moz-selection {
+::-moz-selection {
   background: yellow;
 }
 ::selection {
@@ -109,7 +109,7 @@ li {
   list-style: none outside none;
 }
 ul > li:before {
-  content: "●";
+  content: "\26AB";
   font-family: "Arial";
   float: left;
   width: 1.5em;
@@ -587,17 +587,23 @@ article {
 .contacts li a.facebook:hover {
   color: #3b5998;
 }
+.contacts li a.twitter:hover {
+  color: #619fcc;
+}
 .contacts li a.github:hover {
   color: dimgrey;
 }
 .contacts li a.mail:hover {
-  color: dimgrey;
+  color: #696969;
 }
 .contacts li a.skype:hover {
   color: #00aff0;
 }
 .contacts li a.telegram:hover {
   color: #0088cc;
+}
+.contacts li a.instagram:hover {
+  color: #D15980;
 }
 .contacts li a.phone:hover {
   color: dimgrey;
@@ -758,7 +764,7 @@ li.bordered > ul > details > div {
   font-size: 0.88em;
 }
 .tags.bulleted .tag:not(:last-child):after {
-  content: "●";
+  content: "?";
   display: inline-block;
   font-family: "Arial";
   font-size: 1rem;
